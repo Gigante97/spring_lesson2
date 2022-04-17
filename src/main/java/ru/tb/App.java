@@ -189,7 +189,9 @@ public class App {
         cartService.addProduct(cart, 2L, 2);
         cartService.printCart(cart);
 
-        System.out.println("\n----------- ТЕСТИРОВАНИЕ ЗАВЕРШЕНО -----------\n");
+
+        System.out.println("\n----------- ТЕСТИРОВАНИЕ ЗАВЕРШЕНО ------------\n");
 
     }
+
 }
